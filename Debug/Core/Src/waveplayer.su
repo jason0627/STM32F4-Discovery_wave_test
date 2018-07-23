@@ -1,0 +1,6 @@
+waveplayer.c:68:6:WavePlayerStart	64	static
+waveplayer.c:92:6:WavePlayBack	24	static
+waveplayer.c:173:5:WavePlayerInit	16	static
+waveplayer.c:194:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	4	static
+waveplayer.c:204:6:BSP_AUDIO_OUT_TransferComplete_CallBack	8	static
+waveplayer.c:215:6:BSP_AUDIO_OUT_Error_CallBack	4	static
